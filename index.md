@@ -8,10 +8,11 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1><b>Wang Hai Feng<br>Programmer and Game Producer</b></h1>
-    <h2>Soul Blade</h2>
+    <h1><b>Wang Hai Feng</b><br>Programmer and Game Producer</h1>
+    <h2><b><u>Projects</u></b></h2>
+    <h2><b>Soul Blade</b></h2>
     <div>
-    <img src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="100" height="300"/>
+    <img src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="300"/>
     </div>
     <h2>Mobile Releases</h2>
     <div>
