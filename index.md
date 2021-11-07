@@ -11,7 +11,7 @@
     <h1><b>Wang Hai Feng<br>Programmer and Game Producer</b></h1>
     <h2>Soul Blade</h2>
     <div>
-    <img src="personal-website/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="500" height="800"/>
+    <img src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="500" height="800"/>
     </div>
     <h2>Mobile Releases</h2>
     <div>
