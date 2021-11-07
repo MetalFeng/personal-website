@@ -8,22 +8,22 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1><b>Wang Hai Feng</b><br><span style="font-size: 40%">Programmer and Game Producer</span></h1>
-    <h2 style="font-size: 2em"><b><u>Projects</u></b></h2>
-    <h2><b>Soul Blade</b></h2>
+    <h1><b>Wang Hai Feng</b><br><span style="font-size: 50%">Programmer and Game Producer</span></h1>
+    <h1><b><u>Projects</u></b></h1>
+    <h1><b>Soul Blade</b></h1>
     <div>
     <img src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
     </div>
-    <h2>Mobile Releases</h2>
+    <h1>Mobile Releases</h1>
     <div>
     </div>
-    <h2>Hypercasual Prototypes</h2>
+    <h1>Hypercasual Prototypes</h1>
     <div>
     </div>
-    <h2>Temple of Heck</h2>
+    <h1>Temple of Heck</h1>
     <div>
     </div>
-    <h2>Pontianak</h2>
+    <h1>Pontianak</h1>
     <div>
     </div>
 </body>
