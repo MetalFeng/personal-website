@@ -9,6 +9,21 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>Wang Hai Feng<br>Programmer and Game Producer</header>
+    <h1><b>Wang Hai Feng<br>Programmer and Game Producer</b></h1>
+    <h2>Soul Blade</h2>
+    <div>
+    </div>
+    <h2>Mobile Releases</h2>
+    <div>
+    </div>
+    <h2>Hypercasual Prototypes</h2>
+    <div>
+    </div>
+    <h2>Temple of Heck</h2>
+    <div>
+    </div>
+    <h2>Pontianak</h2>
+    <div>
+    </div>
 </body>
 </html>
