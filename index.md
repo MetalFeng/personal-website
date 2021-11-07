@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1><b>Wang Hai Feng</b><br><span style="font-size: 50%">Programmer and Game Producer</span></h1>
     <h1><b><u>Projects</u></b></h1>
     <h1><b>Soul Blade</b></h1>
     <div>
