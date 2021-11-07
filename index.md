@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1><b>Wang Hai Feng</b><br>Programmer and Game Producer</h1>
-    <h2 style="font-size: 1.5em"><b><u>Projects</u></b></h2>
+    <h1><b>Wang Hai Feng</b><br><style font-size: 0.5em>Programmer and Game Producer</style></h1>
+    <h2 style="font-size: 3em"><b><u>Projects</u></b></h2>
     <h2><b>Soul Blade</b></h2>
     <div>
     <img src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
