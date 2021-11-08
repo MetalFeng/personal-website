@@ -10,14 +10,14 @@
 <body>
     <h1><b><u>Projects</u></b></h1>
     <div class="game-container">
-        <article class="game-description">
+        <p class="game-description">
             <header>Soul Blade</header>
             <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
             <div>
                 <header></header>
             </div>
             A laser sword swinging arcade game that is being developed by myself and an artist. The hook of the game is "swing laser swords to fight cool monsters". Initially, you had to double tap to attack and there was no lightsaber element. During testing, players were trying to hit enemies without double tapping. I quickly decided to pivot to a more straightforward control scheme and the laser sword idea came from that.
-            </br>
+            <br>
             <div float=left>
                 <h2 class="project-details">Project Details</h2>
                 <ul>
@@ -37,7 +37,7 @@
                 </ul>
             </div>
             The prototype was tested and iterated many times and is now intuitive to play because of the dynamic controls that I implemented from scratch. I implemented a dynamic spawn system that adjusts the difficulty of the game based on player performance to achieve maximum flow for players. Enemy behaviour and concepts were designed by me and fleshed out by the artist.
-        </article>
+        </p>
         <div class="buttons">
             <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
         </div>
