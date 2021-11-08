@@ -21,7 +21,8 @@ p.game-description {
 }
 
 .details-list {
-    list-style-type: square;
+    list-style-type: circle;
+    text-align: left;
 }
 
 .game-container {
