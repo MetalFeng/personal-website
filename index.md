@@ -11,30 +11,30 @@
     <h1 style="border-style: hidden hidden solid hidden; border-width: medium;"><b>Projects</b></h1>
     <div class="game-container">
         <h1><b>Soul Blade</b></h1>
+        <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
         <p class="game-description">
-            <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
             A laser sword swinging arcade game that is being developed by myself and an artist. The hook of the game is "swing laser swords to fight cool monsters". Initially, you had to double tap to attack and there was no lightsaber element. During testing, players were trying to hit enemies without double tapping. I quickly decided to pivot to a more straightforward control scheme and the laser sword idea came from that.
             <br>
-            <div class="game-details-container">
-                <h2>Project Details</h2>
-                <ul class="details-list">
-                    <li>Platform: PC/Android/iOS</li>
-                    <li>Tools: Unity, C#, Git, Piskel</li>
-                    <li>Team Size: 2</li>
-                    <li>Project Duration:</li>
-                </ul>
-            </div>
-            <div class="game-details-container">
-                <h2>Responsibilities</h2>
-                <ul class="details-list">
-                    <li>Concept, Gameplay, and Enemy Designs</li>
-                    <li>Gameplay Programming</li>
-                    <li>Sound Design and Programming</li>
-                    <li>Production, Testing, and Marketing</li>
-                </ul>
-            </div>
-            The prototype was tested and iterated many times and is now intuitive to play because of the dynamic controls that I implemented from scratch. I implemented a dynamic spawn system that adjusts the difficulty of the game based on player performance to achieve maximum flow for players. Enemy behaviour and concepts were designed by me and fleshed out by the artist.
         </p>
+        <div class="game-details-container">
+            <h2>Project Details</h2>
+            <ul class="details-list">
+                <li>Platform: PC/Android/iOS</li>
+                <li>Tools: Unity, C#, Git, Piskel</li>
+                <li>Team Size: 2</li>
+                <li>Project Duration:</li>
+            </ul>
+        </div>
+        <div class="game-details-container">
+            <h2>Responsibilities</h2>
+            <ul class="details-list">
+                <li>Concept, Gameplay, and Enemy Designs</li>
+                <li>Gameplay Programming</li>
+                <li>Sound Design and Programming</li>
+                <li>Production, Testing, and Marketing</li>
+            </ul>
+        </div>
+        The prototype was tested and iterated many times and is now intuitive to play because of the dynamic controls that I implemented from scratch. I implemented a dynamic spawn system that adjusts the difficulty of the game based on player performance to achieve maximum flow for players. Enemy behaviour and concepts were designed by me and fleshed out by the artist.
         <div class="buttons">
             <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
         </div>
