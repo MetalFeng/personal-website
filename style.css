@@ -34,3 +34,7 @@ p.game-description {
 .buttons {
     margin: 20px;
 }
+
+hr {
+    clear: left;
+}
