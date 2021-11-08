@@ -41,14 +41,32 @@
     <hr>
     <div class="game-container">
         <h1>Mobile Releases</h1>
-        Mobile games that were released during my time in Poly Fruit Studios. I was responsible for the production and worked on design, gameplay programming, integrating analytics, ADs, and publishing.
+        Mobile games that were released during my time in Poly Fruit Studios. I worked as a project manager, producer, and programmer. I worked on game design, gameplay programming, data analytics, monetization, and publishing.
         <br>
         <br>
         <div class="game-container">
             <h2>Swing Hero</h2>
+            <img class="gameplay" src="/personal-website/assets/gifs/SwingHeroGameplay.gif" alt="Swing Hero Gameplay" width="500" height="300"/>
             <p class="game-description">
-                <img class="gameplay" src="/personal-website/assets/gifs/SwingHeroGameplay.gif" alt="Swing Hero Gameplay" width="500" height="300"/>
+                A superhero swinging arcade game set in a neo-punk city. I mainly worked on the production, testing, monetization, and publishing of the game. I was also involved with balancing the swinging physics, level design, polishing visuals, bugfixing, and optimizing code.
             </p>
+            <div class="game-details-container">
+            <h2>Project Details</h2>
+            <ul class="details-list">
+                <li>Platform: Android/iOS</li>
+                <li>Tools: Unity, C#, Git</li>
+                <li>Team Size: 5</li>
+                <li>Project Duration: 2 Months</li>
+            </ul>
+        </div>
+        <div class="game-details-container">
+            <h2>Responsibilities</h2>
+            <ul class="details-list">
+                <li>Graphics and UI Programming</li>
+                <li>Data Tracking and ADs Monetization</li>
+                <li>Production, Testing, and Publishing</li>
+            </ul>
+        </div>
             <div class="buttons">
                 <a href="https://play.google.com/store/apps/details?id=com.pineapplestudios.swinghero" class="btn">Android Download</a>
                 <a href="https://apps.apple.com/gb/app/swing-hero-neon-punk-action/id1560106051" class="btn">iOS Download</a>
@@ -86,6 +104,7 @@
             <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
         <div>
     </div>
+    <hr>
     <div class="game-container">
         <h1>Temple of Heck</h1>
         <p class="game-description">
@@ -95,6 +114,7 @@
             <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
         <div>
     </div>
+    <hr>
     <div class="game-container">
         <h1>Pontianak</h1>
         <p class="game-description">
