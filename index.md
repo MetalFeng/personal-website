@@ -41,8 +41,8 @@
     <div class="game-container">
         <h1>Mobile Releases</h1>
         Mobile games that were released during my time in Poly Fruit Studios. I was responsible for the production and worked on design, gameplay programming, integrating analytics, ADs, and publishing.
-        </br>
-        </br>
+        <br>
+        <br>
         <div class="game-container">
             <h2>Swing Hero</h2>
             <p class="game-description">
