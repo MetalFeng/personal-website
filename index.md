@@ -17,32 +17,38 @@
         </p>
         <div class="buttons">
             <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
-        <div>
+        </div>
     </div>
     <div class="game-container">
         <h1>Mobile Releases</h1>
         Mobile games that were released during my time in Poly Fruit Studios. I was responsible for the production and worked on design, gameplay programming, integrating analytics, ADs, and publishing.
-        <p class="game-description">
-            <img class="gameplay" src="/personal-website/assets/gifs/SwingHeroGameplay.gif" alt="Swing Hero Gameplay" width="400" height="200"/>
-        </p>
-        <div class="buttons">
-            <a href="https://play.google.com/store/apps/details?id=com.pineapplestudios.swinghero" class="btn">Android Download</a>
-            <a href="https://apps.apple.com/gb/app/swing-hero-neon-punk-action/id1560106051" class="btn">iOS Download</a>
-        <div>
-         <p class="game-description">
-            <img class="gameplay" src="/personal-website/assets/gifs/KingdomJumpGameplay.gif" alt="Kingdom Jump Gameplay" width="400" height="200"/>
-        </p>
-        <div class="buttons">
-            <a href="https://play.google.com/store/apps/details?id=com.PineappleStudios.KingdomJump" class="btn">Android Download</a>
-        <div>
-        <p class="game-description">
-            <img class="gameplay" src="/personal-website/assets/gifs/HopShotGameplay.gif" alt="Hop Shot Gameplay" width="200" height="400"/>
-        </p>
-        <div class="buttons">
-            <a href="https://play.google.com/store/apps/details?id=com.pineapplestudio.hopshooter" class="btn">Android Download</a>
-            <a href="https://apps.apple.com/gb/app/hop-shot-jump-throw-3d/id1566565912" class="btn">
-            iOS Download</a>
-        <div>
+        <div class="game-container">
+            <p class="game-description">
+                <img class="gameplay" src="/personal-website/assets/gifs/SwingHeroGameplay.gif" alt="Swing Hero Gameplay" width="400" height="300"/>
+            </p>
+            <div class="buttons">
+                <a href="https://play.google.com/store/apps/details?id=com.pineapplestudios.swinghero" class="btn">Android Download</a>
+                <a href="https://apps.apple.com/gb/app/swing-hero-neon-punk-action/id1560106051" class="btn">iOS Download</a>
+            </div>
+        </div>
+        <div class="game-container">
+            <p class="game-description">
+                <img class="gameplay" src="/personal-website/assets/gifs/KingdomJumpGameplay.gif" alt="Kingdom Jump Gameplay" width="400" height="200"/>
+            </p>
+            <div class="buttons">
+                <a href="https://play.google.com/store/apps/details?id=com.PineappleStudios.KingdomJump" class="btn">Android Download</a>
+            </div>
+        </div>
+        <div class="game-container">
+            <p class="game-description">
+                <img class="gameplay" src="/personal-website/assets/gifs/HopShotGameplay.gif" alt="Hop Shot Gameplay" width="200" height="400"/>
+            </p>
+            <div class="buttons">
+                <a href="https://play.google.com/store/apps/details?id=com.pineapplestudio.hopshooter" class="btn">Android Download</a>
+                <a href="https://apps.apple.com/gb/app/hop-shot-jump-throw-3d/id1566565912" class="btn">
+                iOS Download</a>
+            </div>
+        </div>
     </div>
     <div class="game-container">
         <h1>Hypercasual Games</h1>
