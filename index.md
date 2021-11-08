@@ -57,22 +57,22 @@
             </div>
         </div>
         <div class="game-details-container">
-                <h2>Project Details</h2>
-                <ul class="details-list">
-                    <li>Platform: Android/iOS</li>
-                    <li>Tools: Unity, C#, Git</li>
-                    <li>Team Size: 5</li>
-                    <li>Project Duration: 2 Months</li>
-                </ul>
-            </div>
-            <div class="game-details-container">
-                <h2>Responsibilities</h2>
-                <ul class="details-list">
-                    <li>Graphics and UI Programming</li>
-                    <li>Data Tracking and ADs Monetization</li>
-                    <li>Production, Testing, and Publishing</li>
-                </ul>
-            </div>
+            <h2>Project Details</h2>
+            <ul class="details-list">
+                <li>Platform: Android/iOS</li>
+                <li>Tools: Unity, C#, Git</li>
+                <li>Team Size: 5</li>
+                <li>Project Duration: 2 Months</li>
+            </ul>
+        </div>
+        <div class="game-details-container">
+            <h2>Responsibilities</h2>
+            <ul class="details-list">
+                <li>Graphics and UI Programming</li>
+                <li>Data Tracking and ADs Monetization</li>
+                <li>Production, Testing, and Publishing</li>
+            </ul>
+        </div>
         <div class="game-container">
             <h2>Kingdom Jump</h2>
             <p class="game-description">
@@ -81,6 +81,23 @@
             <div class="buttons">
                 <a href="https://play.google.com/store/apps/details?id=com.PineappleStudios.KingdomJump" class="btn">Android Download</a>
             </div>
+        </div>
+        <div class="game-details-container">
+            <h2>Project Details</h2>
+            <ul class="details-list">
+                <li>Platform: Android</li>
+                <li>Tools: Unity, C#, Git</li>
+                <li>Team Size: 30</li>
+                <li>Project Duration: 7 Months</li>
+            </ul>
+        </div>
+        <div class="game-details-container">
+            <h2>Responsibilities</h2>
+            <ul class="details-list">
+                <li>Level Design</li>
+                <li>Production, Testing, and Publishing</li>
+                <li>Gameplay and AI Programming</li>
+            </ul>
         </div>
         <div class="game-container">
             <h2>Hop Shot</h2>
