@@ -22,7 +22,7 @@
                 <li>Platform: PC/Android/iOS</li>
                 <li>Tools: Unity, C#, Git, Piskel</li>
                 <li>Team Size: 2</li>
-                <li>Project Duration:</li>
+                <li>Project Duration: In Development</li>
             </ul>
         </div>
         <div class="game-details-container">
@@ -34,7 +34,6 @@
                 <li>Production, Testing, and Marketing</li>
             </ul>
         </div>
-        The prototype was tested and iterated many times and is now intuitive to play because of the dynamic controls that I implemented from scratch. I implemented a dynamic spawn system that adjusts the difficulty of the game based on player performance to achieve maximum flow for players. Enemy behaviour and concepts were designed by me and fleshed out by the artist.
         <div class="buttons">
             <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
         </div>
