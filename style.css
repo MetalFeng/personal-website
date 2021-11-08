@@ -11,8 +11,13 @@ img.gameplay {
     float: left;
 }
 
-.game-description {
+p.game-description {
     text-align: left;
+    overflow: auto;
+}
+
+.details-list {
+    list-style-type: square;
 }
 
 .game-container {

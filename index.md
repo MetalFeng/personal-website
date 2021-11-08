@@ -17,7 +17,7 @@
             <br>
             <div float=left>
                 <h2 class="project-details">Project Details</h2>
-                <ul>
+                <ul class="details-list">
                     <list>Platform: PC/Android/iOS</list>
                     <list>Tools: Unity, C#, Git, Piskel</list>
                     <list>Team Size: 2</list>
