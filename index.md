@@ -114,7 +114,7 @@
     </div>
     <hr>
     <div class="game-container">
-        <h2>Cosmic Ronin</h2>
+        <h1>Cosmic Ronin</h1>
         <img class="gameplay" src="/personal-website/assets/gifs/CosmicRoninGameplay.gif" alt="Cosmic Ronin Gameplay" width="500" height="300"/>
         <p class="game-description">
             A Space Shooter game with
@@ -122,24 +122,25 @@
         <div class="buttons">
             <a href="https://play.google.com/store/apps/details?id=com.PineappleStudios.KingdomJump" class="btn">Android Download</a>
         </div>
-        </div>
-        <div class="game-details-container">
-            <h2>Project Details</h2>
-            <ul class="details-list">
-                <li>Platform: Android</li>
-                <li>Tools: Unity, C#, Git</li>
-                <li>Team Size: 30</li>
-                <li>Project Duration: 7 Months</li>
-            </ul>
-        </div>
-        <div class="game-details-container">
-            <h2>Responsibilities</h2>
-            <ul class="details-list">
-                <li>Level Design</li>
-                <li>Production, Testing, and Publishing</li>
-                <li>Gameplay and AI Programming</li>
-            </ul>
-        </div>
+    </div>
+    <div class="game-details-container">
+        <h2>Project Details</h2>
+        <ul class="details-list">
+            <li>Platform: Android</li>
+            <li>Tools: Unity, C#, Git</li>
+            <li>Team Size: 30</li>
+            <li>Project Duration: 7 Months</li>
+        </ul>
+    </div>
+    <div class="game-details-container">
+        <h2>Responsibilities</h2>
+        <ul class="details-list">
+            <li>Level Design</li>
+            <li>Production, Testing, and Publishing</li>
+            <li>Gameplay and AI Programming</li>
+        </ul>
+    </div>
+    <hr>
     <div class="game-container">
         <h1>Temple of Heck</h1>
         <p class="game-description">
@@ -152,14 +153,15 @@
     <hr>
     <div class="game-container">
         <h1>Pontianak</h1>
+        <img class="gameplay" src="/personal-website/assets/gifs/PontianakGameplay.gif" alt="Pontianak Gameplay" width="500" height="300"/>
         <p class="game-description">
-            <img class="gameplay" src="/personal-website/assets/gifs/PontianakGameplay.gif" alt="Pontianak Gameplay" width="500" height="300"/>
             A horror FPS game demo that I made during my time in university. I programmed first person controls following online tutorials. A fully functional handgun with optimized raycast hit detection, recoil, animations, VFX, and SFX was built using static assets from asset stores and online repositories. The enemy AI in the game was implemented with a simple state machine, navmesh, and pathfinding. The context sensitive item UI pop-ups allowed for intuitive and quick communication with the player while maintainiing immersion. It was my first time building a Unity game from scratch and allowed me to learn the essentials of game development and the engine.
         </p>
         <div class="buttons">
             <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
         <div>
-        <div class="game-details-container">
+    </div>
+    <div class="game-details-container">
         <h2>Project Details</h2>
         <ul class="details-list">
             <li>Platform: PC</li>
@@ -175,7 +177,6 @@
             <li>Gameplay, UI, and Graphics Programming</li>
             <li>Project Management</li>
         </ul>
-    </div>
     </div>
     <hr>
     <div class="game-container">
