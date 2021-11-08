@@ -12,6 +12,7 @@ img.gameplay {
 }
 
 .game-container {
+    margin-bottom: 40px;
     clear: left;
     overflow: auto;
 }
