@@ -16,3 +16,7 @@ img.gameplay {
     clear: left;
     overflow: auto;
 }
+
+.buttons {
+    margin: 20px;
+}
