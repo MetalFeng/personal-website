@@ -15,21 +15,63 @@
             <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
             A Mobile/PC arcade game built in Unity that is being developed by myself and an artist. I am responsible for the concept, design, and programming. The hook of the game is "swinging lightsabers to fight cool monsters". The prototype was tested and iterated many times and is now intuitive to play because of the dynamic controls that I implemented from scratch. Initially, you had to double tap to attack and there was no lightsaber element. During testing, players were tryng to hit enemies without double tapping. I quickly decided to pivot to a more straightforward control scheme and the lightsaber idea came from that. I implemented a dynamic spawn system that adjusts the difficulty of the game based on player performance to achieve maximum flow for players. Enemy behaviour and concepts were designed by me and fleshed out by the artist.
         </p>
-        <div class="buttons">#
+        <div class="buttons">
             <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
         <div>
     </div>
     <div class="game-container">
         <h1>Mobile Releases</h1>
+        Mobile games that were released during my time in Poly Fruit Studios. I was responsible for the production and worked on design, gameplay programming, integrating analytics, ADs, and publishing.
+        <p class="game-description">
+            <img class="gameplay" src="/personal-website/assets/gifs/SwingHeroGameplay.gif" alt="Swing Hero Gameplay" width="400" height="200"/>
+        </p>
+        <div class="buttons">
+            <a href="https://play.google.com/store/apps/details?id=com.pineapplestudios.swinghero" class="btn">Android Download</a>
+            <a href="https://apps.apple.com/gb/app/swing-hero-neon-punk-action/id1560106051" class="btn">iOS Download</a>
+        <div>
+         <p class="game-description">
+            <img class="gameplay" src="/personal-website/assets/gifs/KingdomJumpGameplay.gif" alt="Kingdom Jump Gameplay" width="400" height="200"/>
+        </p>
+        <div class="buttons">
+            <a href="https://play.google.com/store/apps/details?id=com.PineappleStudios.KingdomJump" class="btn">Android Download</a>
+        <div>
+        <p class="game-description">
+            <img class="gameplay" src="/personal-website/assets/gifs/HopShotGameplay.gif" alt="Hop Shot Gameplay" width="200" height="400"/>
+        </p>
+        <div class="buttons">
+            <a href="https://play.google.com/store/apps/details?id=com.pineapplestudio.hopshooter" class="btn">Android Download</a>
+            <a href="https://apps.apple.com/gb/app/hop-shot-jump-throw-3d/id1566565912" class="btn">
+            iOS Download</a>
+        <div>
     </div>
     <div class="game-container">
         <h1>Hypercasual Games</h1>
+        Hypercasual Unity game prototypes that I developed with my teams working in Poly Fruit Studios. I was responsible for the production and worked on design, gameplay, and graphics programming. 
+        <p class="game-description">
+            <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+        </p>
+        <div class="buttons">
+            <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
+        <div>
     </div>
     <div class="game-container">
         <h1>Temple of Heck</h1>
+        <p class="game-description">
+            <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+        </p>
+        <div class="buttons">
+            <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
+        <div>
     </div>
     <div class="game-container">
         <h1>Pontianak</h1>
+        <p class="game-description">
+            <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+            A horror FPS demo that I made with Unity during my time in university.
+        </p>
+        <div class="buttons">
+            <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
+        <div>
     </div>
 </body>
 </html>
