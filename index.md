@@ -55,7 +55,8 @@
                 <br>
                 <a href="https://apps.apple.com/gb/app/swing-hero-neon-punk-action/id1560106051" class="btn">iOS Download</a>
             </div>
-            <div class="game-details-container">
+        </div>
+        <div class="game-details-container">
                 <h2>Project Details</h2>
                 <ul class="details-list">
                     <li>Platform: Android/iOS</li>
@@ -72,7 +73,6 @@
                     <li>Production, Testing, and Publishing</li>
                 </ul>
             </div>
-        </div>
         <div class="game-container">
             <h2>Kingdom Jump</h2>
             <p class="game-description">
