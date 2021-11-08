@@ -75,8 +75,9 @@
         </div>
         <div class="game-container">
             <h2>Kingdom Jump</h2>
+            <img class="gameplay" src="/personal-website/assets/gifs/KingdomJumpGameplay.gif" alt="Kingdom Jump Gameplay" width="500" height="300"/>
             <p class="game-description">
-                <img class="gameplay" src="/personal-website/assets/gifs/KingdomJumpGameplay.gif" alt="Kingdom Jump Gameplay" width="500" height="300"/>
+                wdawd
             </p>
             <div class="buttons">
                 <a href="https://play.google.com/store/apps/details?id=com.PineappleStudios.KingdomJump" class="btn">Android Download</a>
