@@ -23,8 +23,9 @@
         <h1>Mobile Releases</h1>
         Mobile games that were released during my time in Poly Fruit Studios. I was responsible for the production and worked on design, gameplay programming, integrating analytics, ADs, and publishing.
         <div class="game-container">
+            <h2>Swing Hero</h2>
             <p class="game-description">
-                <img class="gameplay" src="/personal-website/assets/gifs/SwingHeroGameplay.gif" alt="Swing Hero Gameplay" width="400" height="300"/>
+                <img class="gameplay" src="/personal-website/assets/gifs/SwingHeroGameplay.gif" alt="Swing Hero Gameplay" width="500" height="300"/>
             </p>
             <div class="buttons">
                 <a href="https://play.google.com/store/apps/details?id=com.pineapplestudios.swinghero" class="btn">Android Download</a>
@@ -32,14 +33,16 @@
             </div>
         </div>
         <div class="game-container">
+            <h2>Kingdom Jump</h2>
             <p class="game-description">
-                <img class="gameplay" src="/personal-website/assets/gifs/KingdomJumpGameplay.gif" alt="Kingdom Jump Gameplay" width="400" height="200"/>
+                <img class="gameplay" src="/personal-website/assets/gifs/KingdomJumpGameplay.gif" alt="Kingdom Jump Gameplay" width="500" height="300"/>
             </p>
             <div class="buttons">
                 <a href="https://play.google.com/store/apps/details?id=com.PineappleStudios.KingdomJump" class="btn">Android Download</a>
             </div>
         </div>
         <div class="game-container">
+            <h2>Hop Shot</h2>
             <p class="game-description">
                 <img class="gameplay" src="/personal-website/assets/gifs/HopShotGameplay.gif" alt="Hop Shot Gameplay" width="200" height="400"/>
             </p>
