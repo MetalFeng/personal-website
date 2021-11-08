@@ -27,8 +27,6 @@ p.game-description {
 
 .game-container {
     margin-bottom: 40px;
-    border-style: hidden hidden solid hidden;
-    border-width: 15px;
     clear: left;
     overflow: auto;
 }

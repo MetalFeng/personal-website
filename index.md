@@ -38,6 +38,7 @@
             <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
         </div>
     </div>
+    <hr>
     <div class="game-container">
         <h1>Mobile Releases</h1>
         Mobile games that were released during my time in Poly Fruit Studios. I was responsible for the production and worked on design, gameplay programming, integrating analytics, ADs, and publishing.
@@ -74,6 +75,7 @@
             </div>
         </div>
     </div>
+    <hr>
     <div class="game-container">
         <h1>Hypercasual Games</h1>
         Hypercasual Unity game prototypes that I developed with my teams working in Poly Fruit Studios. I was responsible for the production and worked on design, gameplay, and graphics programming. 
