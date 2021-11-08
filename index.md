@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1><b><u>Projects</u></b></h1>
+    <h1 style="border-style: hidden hidden solid hidden; border-width: medium;"><b>Projects</b></h1>
     <div class="game-container">
         <h1><b>Soul Blade</b></h1>
         <p class="game-description">
