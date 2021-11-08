@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/I53DKgwSW-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <h1><b><u>Projects</u></b></h1>
     <div class="game-container">
         <h1><b>Soul Blade</b></h1>
