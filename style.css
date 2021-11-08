@@ -11,6 +11,7 @@ img.gameplay {
     float: left;
 }
 
-.clearfix {
+.game-container {
+    clear: left;
     overflow: auto;
 }
