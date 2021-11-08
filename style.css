@@ -16,6 +16,10 @@ p.game-description {
     overflow: auto;
 }
 
+.game-details-container {
+    float: left;
+}
+
 .details-list {
     list-style-type: square;
 }
