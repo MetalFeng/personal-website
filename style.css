@@ -11,6 +11,10 @@ img.gameplay {
     float: left;
 }
 
+.game-description {
+    text-align: left;
+}
+
 .game-container {
     margin-bottom: 40px;
     clear: left;
