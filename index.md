@@ -23,6 +23,9 @@
                 A laser sword swinging arcade game that is being developed by myself and an artist. The hook of the game is "swing laser swords to fight cool monsters". <br><br>Initially, you had to double tap to attack and there was no lightsaber element. During testing, players were trying to hit enemies without double tapping. I quickly decided to pivot to a more straightforward control scheme and the laser sword idea came from that.
                 <br>
             </p>
+            <div class="buttons">
+                <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
+            </div>
         </div>
         <div class="game-details-container">
             <h2>Project Details</h2>
@@ -41,9 +44,6 @@
                 <li>Sound Design and Programming</li>
                 <li>Production, Testing, and Marketing</li>
             </ul>
-        </div>
-        <div class="buttons">
-            <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
         </div>
     </div>
     <hr>
