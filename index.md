@@ -242,7 +242,7 @@
     <hr>
     <div class="game-container">
         <h1>Pontianak</h1>
-        <img class="gameplay" src="/personal-website/assets/gifs/PontianakGameplay.gif" alt="Pontianak Gameplay" width="500" height="300"/>
+        <img class="gameplay" src="/personal-website/assets/gifs/PontianakGameplay.gif" alt="Pontianak Gameplay" width="500" height="400"/>
         <div>
             <p class="game-description">
                 A horror FPS game demo that I made during my time in university. I programmed first person controls following online tutorials.<br><br>A fully functional handgun with optimized raycast hit detection, recoil, animations, VFX, and SFX was built using static assets from asset stores and online repositories. The enemy AI in the game was implemented with a simple state machine, navmesh, and pathfinding.<br><br>The context sensitive item UI pop-ups allowed for intuitive and quick communication with the player while maintainiing immersion. It was my first time building a Unity game from scratch and allowed me to learn the essentials of game development and the engine.
