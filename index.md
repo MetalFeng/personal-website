@@ -59,12 +59,12 @@
                 <p class="game-description">
                     A superhero swinging arcade game set in a neo-punk city. I mainly worked on the production, testing, monetization, and publishing of the game. I was also involved with balancing the swinging physics, level design, polishing visuals, bugfixing, and optimizing code.
                 </p>
+                <div class="buttons">
+                    <a href="https://play.google.com/store/apps/details?id=com.pineapplestudios.swinghero" class="btn">Android Download</a>
+                    <br>
+                    <br>
+                    <a href="https://apps.apple.com/gb/app/swing-hero-neon-punk-action/id1560106051" class="btn">iOS Download</a>
             </div>
-            <div class="buttons">
-                <a href="https://play.google.com/store/apps/details?id=com.pineapplestudios.swinghero" class="btn">Android Download</a>
-                <br>
-                <br>
-                <a href="https://apps.apple.com/gb/app/swing-hero-neon-punk-action/id1560106051" class="btn">iOS Download</a>
             </div>
         </div>
         <div class="game-details-container">
