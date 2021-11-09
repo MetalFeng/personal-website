@@ -116,7 +116,7 @@
         <div class="game-container">
             <div class="hypercasual-game">
                 <span class="title">Wall Runner</span>
-                <img class="gameplay" src="/personal-website/assets/gifs/WallRunnerGameplay.gif" alt="Wall Runner Gameplay" width="300" height="400"/>
+                <img src="/personal-website/assets/gifs/WallRunnerGameplay.gif" alt="Wall Runner Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
@@ -128,7 +128,7 @@
             </div>
             <div class="hypercasual-game">
                 <span class="title">Plane Repair</span>
-                <img src="/personal-website/assets/gifs/PlaneRepair.gif" alt="Plane Repair Gameplay" width="300" height="400"/>
+                <img src="/personal-website/assets/gifs/PlaneRepairGameplay.gif" alt="Plane Repair Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
