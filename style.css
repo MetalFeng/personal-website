@@ -25,8 +25,7 @@ p.game-description {
 }
 
 .game-details-container {
-    font-size: 13px;
-    line-height: 1.4;
+    font-size: 14px;
     word-spacing: 6px;
     float: left;
 }
@@ -34,6 +33,10 @@ p.game-description {
 .details-list {
     list-style-type: circle;
     text-align: left;
+}
+
+li {
+    margin-bottom: 5;
 }
 
 .game-container {

@@ -20,7 +20,7 @@
         <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
         <div>
             <p class="game-description">
-                A laser sword swinging arcade game that is being developed by myself and an artist. The hook of the game is "swing laser swords to fight cool monsters". Initially, you had to double tap to attack and there was no lightsaber element. During testing, players were trying to hit enemies without double tapping. I quickly decided to pivot to a more straightforward control scheme and the laser sword idea came from that.
+                A laser sword swinging arcade game that is being developed by myself and an artist. The hook of the game is "swing laser swords to fight cool monsters". <br><br>Initially, you had to double tap to attack and there was no lightsaber element. During testing, players were trying to hit enemies without double tapping. I quickly decided to pivot to a more straightforward control scheme and the laser sword idea came from that.
                 <br>
             </p>
         </div>
