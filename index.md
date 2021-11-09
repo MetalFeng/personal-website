@@ -121,13 +121,13 @@
                 </p>
             </div>
             <div class="hypercasual-game">
-                <span class="title">Cheer Up Girl</span>
+                <div class="title">Cheer Up Girl</div>
                 <img src="/personal-website/assets/gifs/CheerUpGirlGameplay.gif" alt="Cheer Up Girl Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
-                <span class="title">Plane Repair</span>
+                <div class="title">Plane Repair</div>
                 <img src="/personal-website/assets/gifs/PlaneRepairGameplay.gif" alt="Plane Repair Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
