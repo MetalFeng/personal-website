@@ -17,7 +17,7 @@ img.gameplay {
 }
 
 p.game-description {
-    font-size: 12px;
+    font-family: Geneva, Verdana, sans-serif;
     text-align: left;
     overflow: auto;
 }
