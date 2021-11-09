@@ -133,13 +133,13 @@
                 </p>
             </div>
             <div class="hypercasual-game">
-                <span class="title">Bee Carer</span>
+                <div class="title">Bee Carer</div>
                 <img src="/personal-website/assets/gifs/BeeCarerGameplay.gif" alt="Bee Carer Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
-                <span class="title">Water Me Lawn</span>
+                <div class="title">Water Me Lawn</div>
                 <img src="/personal-website/assets/gifs/WaterMeLawnGameplay.gif" alt="Water Me Lawn Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
