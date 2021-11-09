@@ -110,13 +110,60 @@
     <hr>
     <div class="game-container">
         <h1>Hypercasual Games</h1>
-        Hypercasual Unity game prototypes that I developed with my teams working in Poly Fruit Studios. I was responsible for the production and worked on design, gameplay, and graphics programming. 
-        <p class="game-description">
-            <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
-        </p>
-        <div class="buttons">
-            <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
+        Hypercasual Unity game prototypes that I developed with my teams working in Poly Fruit Studios. I was responsible for the production and worked on design, gameplay programming, and graphics. Each game was market tested with publishers for commercial viability by measuring Click Through Rates, Cost Per Install, and Scalability.
+        <br>
+        <br>
+        <div class="game-container">
+            <div class="hypercasual-game">
+                <h2>Wall Runner</h2>
+                <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+                <p class="game-description">
+                </p>
+            </div>
+            <div class="hypercasual-game">
+                <h2>Cheer Up Girl</h2>
+                <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+                <p class="game-description">
+                </p>
+            </div>
+            <div class="hypercasual-game">
+                <h2>Plane Repair</h2>
+                <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+                <p class="game-description">
+                </p>
+            </div>
+            <div class="hypercasual-game">
+                <h2>Bee Carer</h2>
+                <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+                <p class="game-description">
+                </p>
+            </div>
+            <div class="hypercasual-game">
+                <h2>Water Me Lawn</h2>
+                <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+                <p class="game-description">
+                </p>
+            </div>
         </div>
+        <div class="game-details-container">
+        <h2>Project Details</h2>
+        <ul class="details-list">
+            <li>Platform: Android/iOS</li>
+            <li>Tools: Unity, C#, Git, ClickUp, HitFilm Express, Google WorkSpace</li>
+            <li>Team Size: 10</li>
+            <li>Project Duration: 7 Months</li>
+        </ul>
+    </div>
+    <div class="game-details-container">
+        <h2>Responsibilities</h2>
+        <ul class="details-list">
+            <li>Game Design and Pitching</li>
+            <li>Gameplay Programming and VFX</li>
+            <li>Technical Art and Graphics</li>
+            <li>Production, Testing, and Publishing</li>
+            <li>Video Editing</li>
+        </ul>
+    </div>
     </div>
     <hr>
     <div class="game-container">
