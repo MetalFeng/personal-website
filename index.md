@@ -110,7 +110,7 @@
         </p>
         <div class="buttons">
             <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
-        <div>
+        </div>
     </div>
     <hr>
     <div class="game-container">
@@ -149,7 +149,7 @@
         </p>
         <div class="buttons">
             <a href="https://metalfeng.itch.io/temple-of-heck" class="btn">Play Game</a>
-        <div>
+        </div>
     </div>
     <div class="game-details-container">
         <h2>Project Details</h2>
@@ -178,7 +178,7 @@
         </p>
         <div class="buttons">
             <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
-        <div>
+        </div>
     </div>
     <div class="game-details-container">
         <h2>Project Details</h2>
