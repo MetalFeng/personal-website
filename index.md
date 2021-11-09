@@ -57,7 +57,7 @@
             <img class="gameplay" src="/personal-website/assets/gifs/SwingHeroGameplay.gif" alt="Swing Hero Gameplay" width="500" height="300"/>
             <div>
                 <p class="game-description">
-                    A superhero swinging arcade game set in a neo-punk city. I mainly worked on the production, testing, monetization, and publishing of the game. I was also involved with balancing the swinging physics, level design, polishing visuals, bugfixing, and optimizing code.
+                    A superhero swinging arcade game set in a neo-punk city.<br><br>I mainly worked on the production, testing, monetization, and publishing of the game. I was also involved with balancing the swinging physics, level design, polishing visuals, bugfixing, and optimizing code.
                 </p>
                 <div class="buttons">
                     <a href="https://play.google.com/store/apps/details?id=com.pineapplestudios.swinghero" class="btn">Android Download</a>
@@ -180,7 +180,7 @@
         <img class="gameplay" src="/personal-website/assets/gifs/CosmicRoninGameplay.gif" alt="Cosmic Ronin Gameplay" width="500" height="300"/>
         <div>
             <p class="game-description">
-                A Free-form Space Shooter game with intuitive flight controls and combat. The game was developed to expand the space shooter genre on mobile. The goals for the project were dynamic and intuitive controls, open levels, interesting enemy behaviour, and customizable ship. All game assets were created by myself aside from some muzzle flashes for player weapon, SFX and Music. Through prototyping and testing multiple control schemes, I learned the importance of testing game mechanics/features early and building for your target audience. During tests, men on average preferred faster and more sensitive controls while women preferred slower and more focused controls.
+                A Free-form Space Shooter game with intuitive flight controls and combat. The game was developed to expand the space shooter genre on mobile. The goals for the project were dynamic and intuitive controls, open levels, interesting enemy behaviour, and customizable ship.<br><br>All game assets were created by myself aside from some muzzle flashes for player weapon, SFX and Music. Through prototyping and testing multiple control schemes, I learned the importance of testing game mechanics/features early and building for your target audience. During tests, men on average preferred faster and more sensitive controls while women preferred slower and more focused controls.
             </p>
             <div class="buttons">
                 <a href="" class="btn">Android Download</a>
@@ -212,7 +212,7 @@
         <img class="gameplay" src="/personal-website/assets/gifs/TempleOfHeckGameplay.gif" alt="Temple Of Heck Gameplay" width="500" height="300"/>
         <div>
             <p class="game-description">
-                A treasure hunting adventure game I made with a team for the Global Game Jam 2021. The theme for the jam was "lost and found", so I went with a treasure hunting theme for hook of the game. There are traps with different behavious that test player reflexes and short term decision making skills. I was very happy with the feel of movement in the game with very strong visual feedback.
+                A treasure hunting adventure game I made with a team for the Global Game Jam 2021. The theme for the jam was "lost and found", so I went with a treasure hunting theme for hook of the game. <br><br>There are traps with different behavious that test player reflexes and short term decision making skills. I was very happy with the feel of movement in the game with very strong visual feedback.
             </p>
             <div class="buttons">
                 <a href="https://metalfeng.itch.io/temple-of-heck" class="btn">Play Game</a>
@@ -243,7 +243,7 @@
         <img class="gameplay" src="/personal-website/assets/gifs/PontianakGameplay.gif" alt="Pontianak Gameplay" width="500" height="300"/>
         <div>
             <p class="game-description">
-                A horror FPS game demo that I made during my time in university. I programmed first person controls following online tutorials. A fully functional handgun with optimized raycast hit detection, recoil, animations, VFX, and SFX was built using static assets from asset stores and online repositories. The enemy AI in the game was implemented with a simple state machine, navmesh, and pathfinding. The context sensitive item UI pop-ups allowed for intuitive and quick communication with the player while maintainiing immersion. It was my first time building a Unity game from scratch and allowed me to learn the essentials of game development and the engine.
+                A horror FPS game demo that I made during my time in university. I programmed first person controls following online tutorials.<br><br>A fully functional handgun with optimized raycast hit detection, recoil, animations, VFX, and SFX was built using static assets from asset stores and online repositories. The enemy AI in the game was implemented with a simple state machine, navmesh, and pathfinding.<br><br>The context sensitive item UI pop-ups allowed for intuitive and quick communication with the player while maintainiing immersion. It was my first time building a Unity game from scratch and allowed me to learn the essentials of game development and the engine.
             </p>
             <div class="buttons">
                 <a href="https://metalfeng.itch.io/pontianak" class="btn">Play Game</a>
