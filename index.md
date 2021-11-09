@@ -115,31 +115,31 @@
         <br>
         <div class="game-container">
             <div class="hypercasual-game">
-                <h2>Wall Runner</h2>
+                <span class="title">Wall Runner</span>
                 <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
-                <h2>Cheer Up Girl</h2>
+                <span class="title">Cheer Up Girl</span>
                 <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
-                <h2>Plane Repair</h2>
+                <span class="title">Plane Repair</span>
                 <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
-                <h2>Bee Carer</h2>
+                <span class="title">Bee Carer</span>
                 <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
-                <h2>Water Me Lawn</h2>
+                <span class="title">Water Me Lawn</span>
                 <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
                 <p class="game-description">
                 </p>
@@ -149,7 +149,7 @@
         <h2>Project Details</h2>
         <ul class="details-list">
             <li>Platform: Android/iOS</li>
-            <li>Tools: Unity, C#, Git, ClickUp, HitFilm Express, Google WorkSpace</li>
+            <li>Tools: Unity, C#, Git, ClickUp,<br>HitFilm Express, Google WorkSpace</li>
             <li>Team Size: 10</li>
             <li>Project Duration: 7 Months</li>
         </ul>
