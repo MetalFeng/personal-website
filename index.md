@@ -115,7 +115,7 @@
         <br>
         <div class="game-container">
             <div class="hypercasual-game">
-                <span class="title">Wall Runner</span>
+                <div class="title">Wall Runner</div>
                 <img src="/personal-website/assets/gifs/WallRunnerGameplay.gif" alt="Wall Runner Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>

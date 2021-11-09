@@ -41,8 +41,7 @@ p.game-description {
     overflow: auto;
 }
 
-span.title {
-    display: block;
+.title {
     font-size: 24px;
     font-weight: normal;
     font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
