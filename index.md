@@ -262,6 +262,7 @@
             <li>Project Management</li>
         </ul>
     </div>
+    <!--
     <hr>
     <div class="game-container">
         <h2></h2>
@@ -289,5 +290,6 @@
             <li></li>
         </ul>
     </div>
+    -->
 </body>
 </html>
