@@ -173,28 +173,30 @@
         <img class="gameplay" src="/personal-website/assets/gifs/CosmicRoninGameplay.gif" alt="Cosmic Ronin Gameplay" width="500" height="300"/>
         <div>
             <p class="game-description">
-                A Space Shooter game with
+                A Free-form Space Shooter game with intuitive flight controls and combat. The game was developed to expand the space shooter genre on mobile. The goals for the project were dynamic and intuitive controls, open levels, interesting enemy behaviour, and customizable ship. All game assets were created by myself aside from some muzzle flashes for player weapon, SFX and Music. Through prototyping and testing multiple control schemes, I learned the importance of testing game mechanics/features early and building for your target audience. During tests, men on average preferred faster and more sensitive controls while women preferred slower and more focused controls.
             </p>
         </div>
         <div class="buttons">
-            <a href="https://play.google.com/store/apps/details?id=com.PineappleStudios.KingdomJump" class="btn">Android Download</a>
+            <a href="" class="btn">Android Download</a>
         </div>
     </div>
     <div class="game-details-container">
         <h2>Project Details</h2>
         <ul class="details-list">
-            <li>Platform: Android</li>
-            <li>Tools: Unity, C#, Git</li>
-            <li>Team Size: 30</li>
-            <li>Project Duration: 7 Months</li>
+            <li>Platform: Android/iOS</li>
+            <li>Tools: Unity, C#, Git, Trello</li>
+            <li>Team Size: 1</li>
+            <li>Project Duration: 8 Months</li>
         </ul>
     </div>
     <div class="game-details-container">
         <h2>Responsibilities</h2>
         <ul class="details-list">
-            <li>Level Design</li>
-            <li>Production, Testing, and Publishing</li>
+            <li>Game Design</li>
             <li>Gameplay and AI Programming</li>
+            <li>Prototyping, Testing, and Project Management</li>
+            <li>2D Art and Animations</li>
+            <li>SFX and Music</li>
         </ul>
     </div>
     <hr>
