@@ -49,9 +49,11 @@
         <div class="game-container">
             <h2>Swing Hero</h2>
             <img class="gameplay" src="/personal-website/assets/gifs/SwingHeroGameplay.gif" alt="Swing Hero Gameplay" width="500" height="300"/>
-            <p class="game-description">
-                A superhero swinging arcade game set in a neo-punk city. I mainly worked on the production, testing, monetization, and publishing of the game. I was also involved with balancing the swinging physics, level design, polishing visuals, bugfixing, and optimizing code.
-            </p>
+            <div>
+                <p class="game-description">
+                    A superhero swinging arcade game set in a neo-punk city. I mainly worked on the production, testing, monetization, and publishing of the game. I was also involved with balancing the swinging physics, level design, polishing visuals, bugfixing, and optimizing code.
+                </p>
+            </div>
             <div class="buttons">
                 <a href="https://play.google.com/store/apps/details?id=com.pineapplestudios.swinghero" class="btn">Android Download</a>
                 <br>
@@ -78,9 +80,11 @@
         <div class="game-container">
             <h2>Kingdom Jump</h2>
             <img class="gameplay" src="/personal-website/assets/gifs/KingdomJumpGameplay.gif" alt="Kingdom Jump Gameplay" width="500" height="300"/>
-            <p class="game-description">
-                A 2.5D Mobile Platformer that has physics based platforming, combat, and boss fights. I joined the project as QA to test game features but quickly moved to level design and bugfixing. I ended up being the project manager and handled production for the game.
-            </p>
+            <div>
+                <p class="game-description">
+                    A 2.5D Mobile Platformer that has physics based platforming, combat, and boss fights. I joined the project as QA to test game features but quickly moved to level design and bugfixing. I ended up being the project manager and handled production for the game.
+                </p>
+            </div>
             <div class="buttons">
                 <a href="https://play.google.com/store/apps/details?id=com.PineappleStudios.KingdomJump" class="btn">Android Download</a>
             </div>
@@ -118,9 +122,11 @@
     <div class="game-container">
         <h1>Cosmic Ronin</h1>
         <img class="gameplay" src="/personal-website/assets/gifs/CosmicRoninGameplay.gif" alt="Cosmic Ronin Gameplay" width="500" height="300"/>
-        <p class="game-description">
-            A Space Shooter game with
-        </p>
+        <div>
+            <p class="game-description">
+                A Space Shooter game with
+            </p>
+        </div>
         <div class="buttons">
             <a href="https://play.google.com/store/apps/details?id=com.PineappleStudios.KingdomJump" class="btn">Android Download</a>
         </div>
@@ -146,9 +152,11 @@
     <div class="game-container">
         <h1>Temple of Heck</h1>
         <img class="gameplay" src="/personal-website/assets/gifs/TempleOfHeckGameplay.gif" alt="Temple Of Heck Gameplay" width="500" height="300"/>
-        <p class="game-description">
-            A treasure hunting adventure game I made with a team for the Global Game Jam 2021. The theme for the jam was "lost and found", so I went with a treasure hunting theme for hook of the game. There are traps with different behavious that test player reflexes and short term decision making skills. I was very happy with the feel of movement in the game with very strong visual feedback.
-        </p>
+        <div>
+            <p class="game-description">
+                A treasure hunting adventure game I made with a team for the Global Game Jam 2021. The theme for the jam was "lost and found", so I went with a treasure hunting theme for hook of the game. There are traps with different behavious that test player reflexes and short term decision making skills. I was very happy with the feel of movement in the game with very strong visual feedback.
+            </p>
+        </div>
         <div class="buttons">
             <a href="https://metalfeng.itch.io/temple-of-heck" class="btn">Play Game</a>
         </div>
@@ -175,9 +183,11 @@
     <div class="game-container">
         <h1>Pontianak</h1>
         <img class="gameplay" src="/personal-website/assets/gifs/PontianakGameplay.gif" alt="Pontianak Gameplay" width="500" height="300"/>
-        <p class="game-description">
-            A horror FPS game demo that I made during my time in university. I programmed first person controls following online tutorials. A fully functional handgun with optimized raycast hit detection, recoil, animations, VFX, and SFX was built using static assets from asset stores and online repositories. The enemy AI in the game was implemented with a simple state machine, navmesh, and pathfinding. The context sensitive item UI pop-ups allowed for intuitive and quick communication with the player while maintainiing immersion. It was my first time building a Unity game from scratch and allowed me to learn the essentials of game development and the engine.
-        </p>
+        <div>
+            <p class="game-description">
+                A horror FPS game demo that I made during my time in university. I programmed first person controls following online tutorials. A fully functional handgun with optimized raycast hit detection, recoil, animations, VFX, and SFX was built using static assets from asset stores and online repositories. The enemy AI in the game was implemented with a simple state machine, navmesh, and pathfinding. The context sensitive item UI pop-ups allowed for intuitive and quick communication with the player while maintainiing immersion. It was my first time building a Unity game from scratch and allowed me to learn the essentials of game development and the engine.
+            </p>
+        </div>
         <div class="buttons">
             <a href="https://metalfeng.itch.io/pontianak" class="btn">Play Game</a>
         </div>
@@ -203,8 +213,10 @@
     <div class="game-container">
         <h2></h2>
         <img class="gameplay" src="/personal-website/assets/gifs/Gameplay.gif" alt="Gameplay" width="500" height="300"/>
-        <p class="game-description">
-        </p>
+        <div>
+            <p class="game-description">
+            </p>
+        </div>
         <div class="buttons">
             <a href="https://play.google.com/store/apps/details?id=com.pineapplestudio.hopshooter" class="btn">Android Download</a>
         </div>
