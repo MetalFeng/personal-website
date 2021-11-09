@@ -115,7 +115,7 @@
     <hr>
     <div class="game-container">
         <h1>Cosmic Ronin</h1>
-        <img class="gameplay" src="/personal-website/assets/gifs/CosmicRoninGameplay.gif" alt="Cosmic Ronin Gameplay" width="500" height="300"/>
+        <img class="gameplay" src="/personal-website/assets/gifs/TempleOfHeckGameplay.gif" alt="Cosmic Ronin Gameplay" width="500" height="300"/>
         <p class="game-description">
             A Space Shooter game with
         </p>
@@ -145,7 +145,7 @@
         <h1>Temple of Heck</h1>
         <img class="gameplay" src="/personal-website/assets/gifs/TempleOfHeckGameplay.gif" alt="Temple Of Heck Gameplay" width="500" height="300"/>
         <p class="game-description">
-            A treasure hunting adventure game I made with a team for the Global Game Jam 2021. The theme for the jam was lost and found so I went with a treasure hunting theme for hook of the game. There are traps with different behavious that test player reflexes and short term decision making skills. I was very happy with the feel of movement in the game with very strong visual feedback.
+            A treasure hunting adventure game I made with a team for the Global Game Jam 2021. The theme for the jam was "lost and found", so I went with a treasure hunting theme for hook of the game. There are traps with different behavious that test player reflexes and short term decision making skills. I was very happy with the feel of movement in the game with very strong visual feedback.
         </p>
         <div class="buttons">
             <a href="https://metalfeng.itch.io/temple-of-heck" class="btn">Play Game</a>
