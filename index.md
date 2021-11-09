@@ -55,7 +55,7 @@
         <div class="game-container">
             <h2>Swing Hero</h2>
             <img class="gameplay" src="/personal-website/assets/gifs/SwingHeroGameplay.gif" alt="Swing Hero Gameplay" width="500" height="300"/>
-            <div>
+            <div style="float: left;">
                 <p class="game-description">
                     A superhero swinging arcade game set in a neo-punk city.<br><br>I mainly worked on the production, testing, monetization, and publishing of the game. I was also involved with balancing the swinging physics, level design, polishing visuals, bugfixing, and optimizing code.
                 </p>
