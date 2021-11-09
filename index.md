@@ -143,12 +143,31 @@
     <hr>
     <div class="game-container">
         <h1>Temple of Heck</h1>
+        <img class="gameplay" src="/personal-website/assets/gifs/TempleOfHeckGameplay.gif" alt="Temple Of Heck Gameplay" width="500" height="300"/>
         <p class="game-description">
-            <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+            A treasure hunting adventure game I made with a team for the Global Game Jam 2021. The theme for the jam was lost and found so I went with a treasure hunting theme for hook of the game. There are traps with different behavious that test player reflexes and short term decision making skills. I was very happy with the feel of movement in the game with very strong visual feedback.
         </p>
         <div class="buttons">
-            <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
+            <a href="https://metalfeng.itch.io/temple-of-heck" class="btn">Play Game</a>
         <div>
+    </div>
+    <div class="game-details-container">
+        <h2>Project Details</h2>
+        <ul class="details-list">
+            <li>Platform: PC</li>
+            <li>Tools: Unity, C#</li>
+            <li>Team Size: 4</li>
+            <li>Project Duration: 3 Days</li>
+        </ul>
+    </div>
+    <div class="game-details-container">
+        <h2>Responsibilities</h2>
+        <ul class="details-list">
+            <li>Game Design</li>
+            <li>Gameplay and UI Programming</li>
+            <li>Animations, VFX, and SFX</li>
+            <li>Project Management</li>
+        </ul>
     </div>
     <hr>
     <div class="game-container">
