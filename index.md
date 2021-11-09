@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div>
+        E-mail: haifeng98@hotmail.com    <a href="https://www.linkedin.com/in/wanghaifeng1998">LinkedIn Profile</a>
+    </div>
     <h1 style="border-style: hidden hidden solid hidden; border-width: medium;"><b>Projects</b></h1>
     <div class="game-container">
         <h1><b>Soul Blade</b></h1>
