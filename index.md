@@ -63,6 +63,7 @@
             <div class="buttons">
                 <a href="https://play.google.com/store/apps/details?id=com.pineapplestudios.swinghero" class="btn">Android Download</a>
                 <br>
+                <br>
                 <a href="https://apps.apple.com/gb/app/swing-hero-neon-punk-action/id1560106051" class="btn">iOS Download</a>
             </div>
         </div>
