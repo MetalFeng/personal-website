@@ -182,9 +182,11 @@
             <p class="game-description">
                 A Free-form Space Shooter game with intuitive flight controls and combat. The game was developed to expand the space shooter genre on mobile. The goals for the project were dynamic and intuitive controls, open levels, interesting enemy behaviour, and customizable ship.<br><br>All game assets were created by myself aside from some muzzle flashes for player weapon, SFX and Music. Through prototyping and testing multiple control schemes, I learned the importance of testing game mechanics/features early and building for your target audience. During tests, men on average preferred faster and more sensitive controls while women preferred slower and more focused controls.
             </p>
+            <!--
             <div class="buttons">
                 <a href="" class="btn">Android Download</a>
             </div>
+            -->
         </div>
     </div>
     <div class="game-details-container">
@@ -245,9 +247,11 @@
             <p class="game-description">
                 A horror FPS game demo that I made during my time in university. I programmed first person controls following online tutorials.<br><br>A fully functional handgun with optimized raycast hit detection, recoil, animations, VFX, and SFX was built using static assets from asset stores and online repositories. The enemy AI in the game was implemented with a simple state machine, navmesh, and pathfinding.<br><br>The context sensitive item UI pop-ups allowed for intuitive and quick communication with the player while maintainiing immersion. It was my first time building a Unity game from scratch and allowed me to learn the essentials of game development and the engine.
             </p>
+            <!--
             <div class="buttons">
                 <a href="https://metalfeng.itch.io/pontianak" class="btn">Play Game</a>
             </div>
+            -->
         </div>
     </div>
     <div class="game-details-container">
