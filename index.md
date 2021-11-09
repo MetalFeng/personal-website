@@ -116,31 +116,31 @@
         <div class="game-container">
             <div class="hypercasual-game">
                 <span class="title">Wall Runner</span>
-                <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+                <img class="gameplay" src="/personal-website/assets/gifs/WallRunnerGameplay.gif" alt="Wall Runner Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
                 <span class="title">Cheer Up Girl</span>
-                <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+                <img src="/personal-website/assets/gifs/CheerUpGirlGameplay.gif" alt="Cheer Up Girl Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
                 <span class="title">Plane Repair</span>
-                <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+                <img src="/personal-website/assets/gifs/PlaneRepair.gif" alt="Plane Repair Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
                 <span class="title">Bee Carer</span>
-                <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+                <img src="/personal-website/assets/gifs/BeeCarerGameplay.gif" alt="Bee Carer Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
                 <span class="title">Water Me Lawn</span>
-                <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
+                <img src="/personal-website/assets/gifs/WaterMeLawnGameplay.gif" alt="Water Me Lawn Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
