@@ -12,10 +12,12 @@
     <div class="game-container">
         <h1><b>Soul Blade</b></h1>
         <img class="gameplay" src="/personal-website/assets/gifs/SoulBladeGameplay.gif" alt="Soul Blade Gameplay" width="200" height="400"/>
-        <p class="game-description">
-            A laser sword swinging arcade game that is being developed by myself and an artist. The hook of the game is "swing laser swords to fight cool monsters". Initially, you had to double tap to attack and there was no lightsaber element. During testing, players were trying to hit enemies without double tapping. I quickly decided to pivot to a more straightforward control scheme and the laser sword idea came from that.
-            <br>
-        </p>
+        <div>
+            <p class="game-description">
+                A laser sword swinging arcade game that is being developed by myself and an artist. The hook of the game is "swing laser swords to fight cool monsters". Initially, you had to double tap to attack and there was no lightsaber element. During testing, players were trying to hit enemies without double tapping. I quickly decided to pivot to a more straightforward control scheme and the laser sword idea came from that.
+                <br>
+            </p>
+        </div>
         <div class="game-details-container">
             <h2>Project Details</h2>
             <ul class="details-list">
@@ -115,7 +117,7 @@
     <hr>
     <div class="game-container">
         <h1>Cosmic Ronin</h1>
-        <img class="gameplay" src="/personal-website/assets/gifs/TempleOfHeckGameplay.gif" alt="Cosmic Ronin Gameplay" width="500" height="300"/>
+        <img class="gameplay" src="/personal-website/assets/gifs/CosmicRoninGameplay.gif" alt="Cosmic Ronin Gameplay" width="500" height="300"/>
         <p class="game-description">
             A Space Shooter game with
         </p>
@@ -177,7 +179,7 @@
             A horror FPS game demo that I made during my time in university. I programmed first person controls following online tutorials. A fully functional handgun with optimized raycast hit detection, recoil, animations, VFX, and SFX was built using static assets from asset stores and online repositories. The enemy AI in the game was implemented with a simple state machine, navmesh, and pathfinding. The context sensitive item UI pop-ups allowed for intuitive and quick communication with the player while maintainiing immersion. It was my first time building a Unity game from scratch and allowed me to learn the essentials of game development and the engine.
         </p>
         <div class="buttons">
-            <a href="https://metalfeng.itch.io/soul-blade" class="btn">Play Game</a>
+            <a href="https://metalfeng.itch.io/pontianak" class="btn">Play Game</a>
         </div>
     </div>
     <div class="game-details-container">
