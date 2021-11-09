@@ -10,6 +10,10 @@ h1 {
     font-size: 150%;
 }
 
+hr {
+    clear: left;
+}
+
 img {
     border-radius: 10px;
 }
@@ -66,8 +70,4 @@ li {
 
 .buttons {
     margin: 20px;
-}
-
-hr {
-    clear: left;
 }
