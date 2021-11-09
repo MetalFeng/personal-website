@@ -115,31 +115,31 @@
         <br>
         <div class="game-container">
             <div class="hypercasual-game">
-                <div class="title">Wall Runner</div>
+                <div class="title">Wall Runner  CTR 1.1%</div>
                 <img src="/personal-website/assets/gifs/WallRunnerGameplay.gif" alt="Wall Runner Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
-                <div class="title">Cheer Up Girl</div>
+                <div class="title">Cheer Up Girl CTR 2.33%</div>
                 <img src="/personal-website/assets/gifs/CheerUpGirlGameplay.gif" alt="Cheer Up Girl Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
-                <div class="title">Plane Repair</div>
+                <div class="title">Plane Repair CTR 2.5%</div>
                 <img src="/personal-website/assets/gifs/PlaneRepairGameplay.gif" alt="Plane Repair Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
-                <div class="title">Bee Carer</div>
+                <div class="title">Bee Carer CTR 2.9%</div>
                 <img src="/personal-website/assets/gifs/BeeCarerGameplay.gif" alt="Bee Carer Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
             </div>
             <div class="hypercasual-game">
-                <div class="title">Water Me Lawn</div>
+                <div class="title">Water Me Lawn CTR 3.0%</div>
                 <img src="/personal-website/assets/gifs/WaterMeLawnGameplay.gif" alt="Water Me Lawn Gameplay" width="300" height="400"/>
                 <p class="game-description">
                 </p>
@@ -152,6 +152,8 @@
             <li>Tools: Unity, C#, Git, ClickUp,<br>HitFilm Express, Google WorkSpace</li>
             <li>Team Size: 10</li>
             <li>Project Duration: 7 Months</li>
+            <li>Highest CTR Achieved: 4.1%</li>
+            <li>Additional CTR Tests Ongoing</li>
         </ul>
     </div>
     <div class="game-details-container">
