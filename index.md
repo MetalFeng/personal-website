@@ -157,7 +157,7 @@
         <ul class="details-list">
             <li>Platform: Android/iOS</li>
             <li>Tools: Unity, C#, Git, ClickUp,<br>HitFilm Express, Google WorkSpace</li>
-            <li>Team Size: 10</li>
+            <li>Team Size: 30</li>
             <li>Project Duration: 7 Months</li>
             <li>Highest CTR Achieved: 4.1%</li>
             <li>Additional CTR Tests Ongoing</li>
